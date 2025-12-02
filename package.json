@@ -1,7 +1,7 @@
 {
   "name": "limitngin",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "rate limiter for express",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
@@ -16,9 +16,31 @@
     "type": "git",
     "url": "git+https://github.com/Termux-Dark-Dev/limitngin.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+  "rate-limiter",
+  "rate-limit",
+  "rate limiting",
+  "throttle",
+  "throttling",
+  "limiter",
+  "middleware",
+  "express",
+  "express-middleware",
+  "nodejs",
+  "node",
+  "backend",
+  "api",
+  "ddos-protection",
+  "abuse-prevention",
+  "request-limit",
+  "http"
+],
+  "author": {
+  "name": "Vishal Pandey",
+  "email": "vp078596@gmail.com",
+  "url": "https://github.com/0xv1shal"
+},
+  "license": "MIT",
   "type": "module",
   "bugs": {
     "url": "https://github.com/Termux-Dark-Dev/limitngin/issues"
